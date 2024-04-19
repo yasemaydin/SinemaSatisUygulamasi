@@ -29,4 +29,5 @@ Bu proje C# dili ve Entity Framework teknolojisi ile yapılmıştır. Windows Fo
 * Veriler Models\Seans sınıfı özelliklerine göre biçimlendirilir.
 * Veriler veritabanına kayıt edilir.
 
+# Not
 * Veritabanına bir film, bir salon ve bir müşteri bilgisi kayıt edilmiştir.
