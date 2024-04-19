@@ -4,7 +4,7 @@ Bu proje C# dili ve Entity Framework teknolojisi ile yapılmıştır. Windows Fo
 # Proje Varlıkları
 * YaseminAydın.db dosyası veritabanıdır ve uygulamanın derleme klasörü içerisinde bulunur.
 * Models adlı klasör veritabanına göre oluşturulmuş sınıfları (Film.cs, Salon.cs ve Seans.cs) içerir.
-* Context adlı sınıf context ve model için oluşturulan sınıfdır.
+* Context adlı sınıf context ve model için oluşturulan sınıftır.
 
 # Pencere Özellikleri
 * Projede tek pencere kullanılmıştır.
